@@ -135,7 +135,7 @@ profiles:
     # 
     # close_on_passing: true
     #
-    close_on_passing: false
+    close_on_passing: true
 
   # Additional configuration profiles
   #
